@@ -3,7 +3,7 @@
 </p>
 <br />
 <img
-  src="https://github.com/Karmello/Squares/blob/master/screen_shots/1.png?raw=true"
-  alt="Squares"
+  src="https://github.com/Karmello/BossPuzzle/blob/master/screenshots/1.png?raw=true"
+  alt="BossPuzzle"
   width="700px"
 />
