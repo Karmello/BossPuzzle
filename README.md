@@ -1,6 +1,6 @@
 <img
   align="left"
-  src="https://github.com/Karmello/Squares/blob/master/screen_shots/1.png?raw=true"
+  src="https://github.com/Karmello/Squares/blob/master/screenshots/1.png?raw=true"
   alt="Squares"
   width="525px"/>
 <p align="justify">
